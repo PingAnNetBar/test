@@ -1,0 +1,28 @@
+/*头部*/
+.Header{
+  width: 1918px;
+  height: 80px;
+  background: #07cbc9;
+  margin: 0 auto;
+}
+.Header_control{
+width: 1656px;
+height: 80px;
+margin: 0 auto;
+}
+.Header_control img{
+  margin-top: 25px;
+}
+.Header_control ul {
+  float: right;
+}
+.Header_control ul li{
+  float: left;
+  color: #fff;
+  height: 80px;
+  line-height: 80px;
+  font-family: "Microsoft YaHei UI"
+}
+.need{
+  margin-right: 20px;
+}
